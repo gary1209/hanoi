@@ -1,5 +1,6 @@
 #include <cstdio>
 
 int main(){
-  puts("Hello dog\n");
+  puts("Hello dog");
+  puts("KER KER!!")
 }
